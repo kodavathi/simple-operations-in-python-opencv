@@ -9,4 +9,4 @@ this repostary is about operations in opencv-python.operations the program does 
 8.subtract two image
 9.image tresholding
 10.drawing on image
-11.stop running the program")
+11.stop running the program
