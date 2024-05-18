@@ -1,4 +1,5 @@
-this repostary is about operations in opencv-python.operations the program does are listed below:
+BASIC REQUIREMENT---install opencv module
+This repository is about operations in opencv-python.operations the program does are listed below:
 1.displaying original image
 2.conversion of BGR image to GRAY
 3.conversion BGR image to RGB
